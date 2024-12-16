@@ -1,0 +1,1 @@
+python yolov7/train.py --weights models/yolov7.pt --data data/neu-det/data.yaml --cfg yolov7/cfg/training/yolov7.yaml --epochs 50 --batch-size 16 --device 0
