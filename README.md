@@ -47,7 +47,7 @@ cd ..
 Prepare the dataset for training:
 ```bash
 mkdir data/
-unzip raw_data/neu-et.zip -d data/
+unzip raw_data/neu-det.zip -d data/
 ```
 
 ---
