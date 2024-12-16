@@ -89,15 +89,3 @@ python yolov7/train.py --weights models/yolov7.pt --data data/neu-det/data.yaml 
 │           └── yolov7.yaml
 └── train.sh
 ```
-
----
-
-## Contact
-For any questions or issues, feel free to open an issue or reach out to the maintainer.
-
----
-
-Happy Training!
-```
-
-Copy and paste this code into your `README.md` file. Let me know if you need additional sections or modifications!
